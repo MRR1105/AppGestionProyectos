@@ -5,3 +5,5 @@ Sistema de información de gestión de proyectos realizado en el ciclo 4 en misi
 
 - Me llamo Daniel Tisoy, vivo en bogotá y tengo el rol de desarrollador.
 - Me llamo Edward Reina, vivo en Neiva y tengo el rol de Analista.
+- Me llamo Edward Reina, vivo en Bogotá y tengo el reol de product owner.
+
